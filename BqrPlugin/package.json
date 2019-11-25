@@ -1,0 +1,18 @@
+{
+    "version": "1.0.0",
+    "name": "com.itisvignesh.commonqrplugin",
+    "cordova_name": "CommonQRPlugin",
+    "description": "CommonQRPlugin",
+    "license": "Apache 2.0",
+    "repo": "",
+    "issue": "",
+    "keywords": [
+        "cordova",
+        "device"
+    ],
+    "platforms": [
+        "ios"
+    ],
+    "engines": [],
+    "englishdoc": ""
+}
